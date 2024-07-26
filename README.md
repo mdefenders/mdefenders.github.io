@@ -1,7 +1,7 @@
 # mEvac
 Public GitHub Repository: [mEvac](https://github.com/mdefenders/mevac-public)
 
-This is a simple script designed to migrate (import) social network post backups to Mastodon account.
+This is a simple script designed to migrate (import) social network content backups to Mastodon account.
 Currently, the script supports the following networks:
 
 - Facebook
@@ -17,8 +17,8 @@ and Twitter to dedicated accounts on a self-hosted Mastodon instance.
 
 # Features
 
-- Migration of Mastodon post archives
-- Migration of Facebook post archives
+- Migration of Mastodon content archives
+- Migration of Facebook content archives
 - Timestamping and auto-threading of Facebook posts
 - Provided as a docker image
 
