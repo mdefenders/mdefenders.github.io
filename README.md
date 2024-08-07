@@ -1,4 +1,6 @@
-# mEvac - migrates content to Mastodon
+# mEvac
+
+migrates content to Mastodon
 Public GitHub Repository: [mEvac](https://github.com/mdefenders/mevac-public)
 
 This is a simple script designed to migrate (import) social network content backups to Mastodon account.
